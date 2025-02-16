@@ -1,6 +1,6 @@
 # Easy steps to try the content of this repo
 
-- [ ] Download one of the EDS dataset from <https://rpg.ifi.uzh.ch/eds.html#dataset>
+- [x] Download one of the EDS dataset from <https://rpg.ifi.uzh.ch/eds.html#dataset>
 
 - [ ] Prepare the dataset calling the data_preparation/real/eds_rectify_events_and_frames.py on the txt version of the dataset (applies rectification, sequence segmentation and generates the input event representation)
 
